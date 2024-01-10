@@ -1,0 +1,26 @@
+ica_assignment_script.pdf
+.ipynb_checkpoints/ica_assignment_script-checkpoint.ipynb
+Console Output/ICA_Console_Output_1.txt
+Console Output/ICA_Console_Output_2.txt
+Console Output/ICA_Console_Output_3.txt
+
+
+Console Output/ICA_Console_Output.txt
+DataFrames/ACCURACY_SCORES_data.csv
+DataFrames/FEATURES_data.csv
+DataFrames/PCA_EIGENVALUES_data.csv
+DataFrames/PCA_test_data.csv
+DataFrames/PCA_TEST_FEATURES_data.csv
+DataFrames/PCA_train_data.csv
+DataFrames/PCA_TRAIN_FEATURES_data.csv
+DataFrames/RAW_data.csv
+DataFrames/SCALED_FEATURES_data.csv
+DataFrames/TARGETS_data.csv
+Dataset/BSL-leap-motion.csv
+Plots/Test 4/accuracy_scores_plot.png
+Plots/Test 4/class_count_plt.png
+Plots/Test 4/confusion_matrix_KNN_pred.png
+Plots/Test 4/confusion_matrix_Random_Forest_pred.png
+Plots/Test 4/confusion_matrix_SVC_pred.png
+Plots/Test 4/eigenvalues_pca_barplot.png
+Plots/Test 4/pca_curveplot.png
